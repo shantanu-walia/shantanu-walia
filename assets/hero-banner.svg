@@ -63,7 +63,7 @@
   <text x="42" y="98" class="sans name">Shantanu Walia</text>
 
   <!-- Subtitle -->
-  <text x="42" y="132" class="sans sub">Software Developer  |  Full-Stack Developer  |  DSA Enthusiast</text>
+  <text x="42" y="132" class="sans sub">Software Developer  |  Full-Stack Developer  |  DSA</text>
 
   <!-- Hairline Divider -->
   <line x1="42" y1="162" x2="818" y2="162" stroke="url(#divider-grad)" stroke-width="1" />

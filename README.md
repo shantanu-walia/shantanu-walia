@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Hi 👋, I'm Shantanu Walia</h1>
-  <p><strong>Software Developer | Full-Stack Developer | DSA Enthusiast</strong></p>
+  <p><strong>Software Developer | Full-Stack Developer | DSA</strong></p>
 
   <br/>
 
@@ -12,29 +12,28 @@
 
   <br/><br/>
 
-  <!-- 3D Leather Cricket Ball with Orbiting Tech Stack -->
-  <picture>
-    <source srcset="./assets/cricket-tech-orbit.svg" type="image/svg+xml">
-    <img src="./assets/cricket-ball-orbit-fallback.svg" alt="3D Leather Cricket Ball Tech Stack Orbit" width="100%" />
-  </picture>
+  <!-- Developer Laptop Automatic Tech Stack Typing Animation -->
+  <p align="center">
+    <img src="./assets/laptop-tech-typing.svg" alt="Laptop Tech Stack Automatic Typing Animation" width="100%" />
+  </p>
 
 </div>
 
 ---
 
-### 🏏 About Me
+### 💻 About Me
 
 ```javascript
 const shantanu = {
   role: "Software Developer | Full-Stack Developer",
   focus: ["Backend Engineering", "Full-Stack Development", "Scalable Systems"],
-  dsa: "Data Structures & Algorithms Enthusiast",
-  passions: ["Clean Code Architecture", "Open Source", "Cricket 🏏"],
+  dsa: "Data Structures & Algorithms",
+  passions: ["Clean Code Architecture", "Open Source", "System Design"],
   philosophy: "Disciplined problem solving, clean system design, and building resilient code."
 };
 ```
 
-I am a full-stack and backend-focused developer dedicated to building reliable software systems and solving complex computational challenges. My work centers on architecting clean web applications, designing efficient database schemas, and practicing algorithmic problem solving. Outside the terminal, you'll find me analyzing fast bowling seam mechanics and following international cricket.
+I am a full-stack and backend-focused developer dedicated to building reliable software systems and solving complex computational challenges. My work centers on architecting clean web applications, designing efficient database schemas, and practicing algorithmic problem solving. I enjoy exploring modern developer tooling, performance optimizations, and scalable distributed systems.
 
 ---
 
@@ -67,7 +66,7 @@ I am a full-stack and backend-focused developer dedicated to building reliable s
 
   <p align="center">
     <a href="https://github.com/shantanu-walia">
-      <img src="https://github-readme-stats.vercel.app/api?username=shantanu-walia&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&bg_color=0d1117&title_color=10b981&icon_color=dc2626&text_color=c9d1d9" alt="Shantanu's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=shantanu-walia&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&bg_color=0d1117&title_color=10b981&icon_color=38bdf8&text_color=c9d1d9" alt="Shantanu's GitHub Stats" />
     </a>
     &nbsp;
     <a href="https://github.com/shantanu-walia">
@@ -104,5 +103,5 @@ I am a full-stack and backend-focused developer dedicated to building reliable s
 <br/>
 
 <div align="center">
-  <sub>"In software as in cricket, timing, technique, and discipline always triumph over force."</sub>
+  <sub>"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra</sub>
 </div>
