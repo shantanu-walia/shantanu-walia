@@ -1,11 +1,11 @@
 <div align="center">
 
-  <h1>Hi 👋, I'm Shantanu Walia</h1>
+  <h1>Hi, I'm Shantanu Walia</h1>
   <p><strong>Software Developer | Full-Stack Developer | DSA</strong></p>
 
   <br/>
 
-  <!-- Terminal-Inspired Hero Banner -->
+  <!-- Terminal-Inspired Hero Banner Card -->
   <a href="https://github.com/shantanu-walia">
     <img src="./assets/hero-banner.svg" alt="Shantanu Walia Hero Card" width="100%" />
   </a>
@@ -21,7 +21,7 @@
 
 ---
 
-### 💻 About Me
+## <img src="./assets/icons/about.svg" width="22" height="22" valign="middle" /> &nbsp;About Me
 
 ```javascript
 const shantanu = {
@@ -37,68 +37,83 @@ I am a full-stack and backend-focused developer dedicated to building reliable s
 
 ---
 
-### 🛠️ Tech Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | `C++` • `JavaScript` • `TypeScript` |
-| **Frontend** | `React` • `Tailwind CSS` |
-| **Backend** | `Node.js` • `Express.js` |
-| **Databases** | `MongoDB` • `PostgreSQL` |
-| **ORM / Tools** | `Prisma` |
-| **Dev & Infrastructure** | `Git` • `GitHub` • `Docker` |
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Stack | Link |
-| :--- | :--- | :--- | :---: |
-| **AI Interview Platform** | Modern platform engineered to streamline technical interview workflows and structured evaluation | `React` `Node.js` `Express.js` | [Repository →](https://github.com/shantanu-walia/ai-interview-platform) |
-| **AI-Interview** | Automated tool designed to assist developers with interview preparation and dynamic resume generation | `JavaScript` `Node.js` | [Repository →](https://github.com/shantanu-walia/AI-Interview) |
-| **CMS** | Content Management System focused on reliable schema design, content workflows, and administrative control | `TypeScript` `PostgreSQL` `Prisma` | [Repository →](https://github.com/shantanu-walia/CMS-) |
-
----
-
-### 📊 GitHub Stats
+## <img src="./assets/icons/tech.svg" width="22" height="22" valign="middle" /> &nbsp;Tech Stack
 
 <div align="center">
-
-  <p align="center">
-    <a href="https://github.com/shantanu-walia">
-      <img src="https://github-readme-stats.vercel.app/api?username=shantanu-walia&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&bg_color=0d1117&title_color=10b981&icon_color=38bdf8&text_color=c9d1d9" alt="Shantanu's GitHub Stats" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/shantanu-walia">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanu-walia&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&bg_color=0d1117&title_color=10b981&text_color=c9d1d9" alt="Shantanu's Top Languages" />
-    </a>
-  </p>
-
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="48" height="48" />
+  </a>
+  &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48" />
+  </a>
+  &nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="48" height="48" />
+  </a>
+  &nbsp;
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48" />
+  </a>
+  &nbsp;
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="48" height="48" />
+  </a>
+  &nbsp;
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" />
+  </a>
+  &nbsp;
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="48" height="48" />
+  </a>
+  &nbsp;
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
+  </a>
+  &nbsp;
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" />
+  </a>
+  &nbsp;
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="48" height="48" />
+  </a>
+  &nbsp;
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48" />
+  </a>
+  &nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" />
+  </a>
 </div>
 
 ---
 
-### 📈 Contribution Activity
+## <img src="./assets/icons/connect.svg" width="22" height="22" valign="middle" /> &nbsp;Connect With Me
 
 <div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shantanu-walia/shantanu-walia/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shantanu-walia/shantanu-walia/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake Grid" src="https://raw.githubusercontent.com/shantanu-walia/shantanu-walia/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-
+  <a href="https://github.com/shantanu-walia" target="_blank" rel="noopener">
+    <img src="./assets/icons/github.svg" alt="GitHub" width="48" height="48" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://in.linkedin.com/in/shantanu-walia-45414a36a" target="_blank" rel="noopener">
+    <img src="./assets/icons/linkedin.svg" alt="LinkedIn" width="48" height="48" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Shanu313/" target="_blank" rel="noopener">
+    <img src="./assets/icons/leetcode.svg" alt="LeetCode" width="48" height="48" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:waliashantanu3@gmail.com">
+    <img src="./assets/icons/email.svg" alt="Email" width="48" height="48" />
+  </a>
 </div>
-
----
-
-### 📬 Connect With Me
-
-| Platform | Profile Link |
-| :--- | :--- |
-| **GitHub** | [github.com/shantanu-walia](https://github.com/shantanu-walia) |
-| **LinkedIn** | [linkedin.com/in/shantanu-walia-45414a36a](https://in.linkedin.com/in/shantanu-walia-45414a36a) |
-| **LeetCode** | [leetcode.com/u/shantanu-walia](https://leetcode.com/u/shantanu-walia) |
 
 <br/>
 
