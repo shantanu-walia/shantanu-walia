@@ -1,21 +1,9 @@
 <div align="center">
 
-  <h1>Hi, I'm Shantanu Walia</h1>
-  <p><strong>Software Developer | Full-Stack Developer | DSA</strong></p>
-
-  <br/>
-
   <!-- Terminal-Inspired Hero Banner Card -->
   <a href="https://github.com/shantanu-walia">
     <img src="./assets/hero-banner.svg" alt="Shantanu Walia Hero Card" width="100%" />
   </a>
-
-  <br/><br/>
-
-  <!-- Developer Laptop Automatic Tech Stack Typing Animation -->
-  <p align="center">
-    <img src="./assets/laptop-tech-typing.svg" alt="Laptop Tech Stack Automatic Typing Animation" width="100%" />
-  </p>
 
 </div>
 
@@ -38,6 +26,13 @@ I am a full-stack and backend-focused developer dedicated to building reliable s
 ---
 
 ## <img src="./assets/icons/tech.svg" width="22" height="22" valign="middle" /> &nbsp;Tech Stack
+
+<!-- Developer Laptop Automatic Tech Stack Typing Animation (Midnight Finish) -->
+<p align="center">
+  <img src="./assets/laptop-tech-typing.svg" alt="Laptop Tech Stack Automatic Typing Animation" width="100%" />
+</p>
+
+<br/>
 
 <div align="center">
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
@@ -113,10 +108,4 @@ I am a full-stack and backend-focused developer dedicated to building reliable s
   <a href="mailto:waliashantanu3@gmail.com">
     <img src="./assets/icons/email.svg" alt="Email" width="48" height="48" />
   </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <sub>"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra</sub>
 </div>
