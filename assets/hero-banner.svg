@@ -1,80 +1,62 @@
-<svg width="860" height="240" viewBox="0 0 860 240" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <!-- Background Gradient -->
-    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0f141c" />
-      <stop offset="100%" stop-color="#080c10" />
-    </linearGradient>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="1000" height="280" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTphNzAxNDY5Ni0yOTY1LTQxMjgtOGI1Ny05MTQ1M2RlOThiMTgAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaOmBBtc1C8BJaPf3aizV4mAAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDozN2Q3Zjc0Ni1lY2M3LTQ2ZTMtYWE4Ni0yODk2YzU3NTg0YmVscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoRzbX9tv1Q8EnvbbgiGqnFgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggS/vmcoFlMH32lYo4BDDAiYlQWElGzIfbuolh9RLqCFykZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaLvX5PFnetN/I+bjFpky16gAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCDG4GpPAqfPSRE7AG6p2/RmTKYTz71hiAmh2wrInxHH1mRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiYZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmE3MDE0Njk2LTI5NjUtNDEyOC04YjU3LTkxNDUzZGU5OGIxOC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmYwZmMxMGZhLTI3ZTItNGY2ZS04MTViLTZhZTJiOGExNGIxY3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBL++ZygWUwffaVijgEMMCJiVBYSUbMh9u6iWH1EuoIXKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg1z03E3IpfPXsnNyfjBv5E+JMSSe4ln90OsS4c5sMjYSiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg1VE+3r7T2bS1OBjDf+Dme2poml3fvv8lXneonqMq5qB0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQFa+U/vv7VeZSVW5loAG4pJ2fbOV6XQQp6eVVMIKVdAQDnr81K1AoKWsHd5DJTqk/r1Dbq/iNs7kqPS7UtZkPqs=</c2pa:manifest></metadata>
+<title>Shantanu Walia — Full Stack Developer</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#010101"/><stop offset=".28" stop-color="#060a0c"/>
+  <stop offset=".5" stop-color="#112228"/><stop offset=".75" stop-color="#265968"/><stop offset="1" stop-color="#44a0b8"/>
+</linearGradient>
+<linearGradient id="rule" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity=".3"/><stop offset="1" stop-color="#fff" stop-opacity=".05"/></linearGradient>
+<linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<filter id="grain" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="2" seed="4" result="n"/><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="linear" slope=".09"/></feComponentTransfer></filter>
+<clipPath id="tc"><rect class="tclip" x="64" y="200" width="0" height="28"/></clipPath>
+<clipPath id="card"><rect x="1" y="1" width="998" height="278" rx="24"/></clipPath>
+</defs>
+<style>
+.fade{opacity:0;animation:up .9s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes up{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+.rule{transform-box:fill-box;transform-origin:left;transform:scaleX(0);animation:draw 1.3s cubic-bezier(.6,.1,.2,1) 1.2s forwards}
+@keyframes draw{to{transform:scaleX(1)}}
+.shine{opacity:0;animation:sh 5s ease-in-out 3s infinite}
+@keyframes sh{0%{transform:translateX(0);opacity:0}15%{opacity:1}70%{transform:translateX(732px);opacity:0}100%{transform:translateX(732px);opacity:0}}
+.tclip{animation:ty 2.10s steps(35,end) 2.3s forwards}
+@keyframes ty{to{width:294.0px}}
+.tcur{opacity:0;animation:tc 2.10s steps(35,end) 2.3s forwards}
+@keyframes tc{0%{opacity:1;transform:translateX(0)}99%{opacity:1}100%{opacity:1;transform:translateX(294.0px)}}
+.tblink{animation:bl 1.2s ease-in-out 4.50s infinite}
+@keyframes bl{0%,45%{opacity:1}60%,100%{opacity:0}}
+.dot{animation:pl 2.6s ease-in-out infinite}
+@keyframes pl{50%{opacity:.3}}
+</style>
+<g clip-path="url(#card)">
+  <rect width="1000" height="280" fill="url(#bg)"/>
+  <rect width="1000" height="280" fill="#808080" filter="url(#grain)"/>
+</g>
+<rect x="1" y="1" width="998" height="278" rx="24" fill="none" stroke="#fff" stroke-opacity=".1"/>
 
-    <!-- Border Gradient with subtle pitch-green accent -->
-    <linearGradient id="border-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#30363d" />
-      <stop offset="40%" stop-color="#1e293b" />
-      <stop offset="80%" stop-color="#10b981" stop-opacity="0.4" />
-      <stop offset="100%" stop-color="#30363d" />
-    </linearGradient>
+<!-- monogram (frosted) -->
+<g class="fade" style="animation-delay:.2s">
+  <rect x="890" y="34" width="66" height="66" rx="18" fill="#a9c9d1" fill-opacity=".75"/>
+  <text x="923" y="75" text-anchor="middle" font-size="21" font-weight="700" letter-spacing="1" fill="#0b1a1f" font-family="Inter,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">SW</text>
+</g>
 
-    <!-- Hairline Divider Gradient -->
-    <linearGradient id="divider-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#30363d" stop-opacity="0.1" />
-      <stop offset="25%" stop-color="#30363d" />
-      <stop offset="50%" stop-color="#10b981" stop-opacity="0.6" />
-      <stop offset="75%" stop-color="#30363d" />
-      <stop offset="100%" stop-color="#30363d" stop-opacity="0.1" />
-    </linearGradient>
+<g class="fade" style="animation-delay:.3s">
+  <rect class="dot" x="64" y="56" width="6" height="6" rx="1" fill="#8fb3bd"/>
+  <text x="80" y="63" font-size="12" letter-spacing="4.4" fill="#8fb3bd" font-family="Inter,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">FULL STACK DEVELOPER</text>
+</g>
 
-    <!-- Subtle Red/Leather Seam Accent for the Monogram -->
-    <linearGradient id="monogram-border" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#b91c1c" />
-      <stop offset="100%" stop-color="#30363d" />
-    </linearGradient>
-  </defs>
+<g class="fade" style="animation-delay:.6s">
+  <text x="61" y="133" font-size="66" font-weight="800" letter-spacing="-2.5" fill="#fafcfc" font-family="Inter,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">Shantanu Walia</text>
+</g>
 
-  <style>
-    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
-    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
-    .tag { font-size: 11px; fill: #8b949e; letter-spacing: 2px; font-weight: 600; }
-    .name { font-size: 38px; fill: #f0f6fc; font-weight: 700; letter-spacing: -0.5px; }
-    .sub { font-size: 15px; fill: #94a3b8; font-weight: 400; }
-    .term-prompt { font-size: 13px; fill: #64748b; }
-    .term-user { font-size: 13px; fill: #8b949e; }
-    .term-cmd { font-size: 13px; fill: #e2e8f0; font-weight: 500; }
-    .term-cursor { fill: #10b981; animation: blink 1s infinite; }
-    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
-  </style>
+<g class="fade" style="animation-delay:1s">
+  <text x="64" y="168" font-size="17" fill="#aebfc4" font-family="Inter,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">Building clean, reliable web applications.</text>
+</g>
 
-  <!-- Outer Card Frame -->
-  <rect x="1" y="1" width="858" height="238" rx="14" fill="url(#bg-grad)" stroke="url(#border-grad)" stroke-width="1.5" />
+<rect class="rule" x="64" y="190" width="872" height="1" fill="url(#rule)"/>
+<rect class="shine" x="64" y="189.5" width="140" height="2" fill="url(#shine)"/>
 
-  <!-- Top Right Monogram Badge -->
-  <g transform="translate(784, 28)">
-    <rect width="44" height="34" rx="8" fill="#161b22" stroke="url(#monogram-border)" stroke-width="1.2" />
-    <text x="22" y="22" class="mono" font-size="12" font-weight="700" fill="#f1f5f9" text-anchor="middle">SW</text>
-  </g>
-
-  <!-- Header Details -->
-  <!-- Tag -->
-  <g transform="translate(42, 48)">
-    <rect x="0" y="2" width="6" height="6" rx="1" fill="#10b981" />
-    <text x="16" y="9" class="mono tag">SOFTWARE DEVELOPER</text>
-  </g>
-
-  <!-- Big Name -->
-  <text x="42" y="98" class="sans name">Shantanu Walia</text>
-
-  <!-- Subtitle -->
-  <text x="42" y="132" class="sans sub">Software Developer  |  Full-Stack Developer  |  DSA</text>
-
-  <!-- Hairline Divider -->
-  <line x1="42" y1="162" x2="818" y2="162" stroke="url(#divider-grad)" stroke-width="1" />
-
-  <!-- Terminal Command Prompt at Bottom -->
-  <g transform="translate(42, 196)">
-    <text x="0" y="0" class="mono term-user">shantanu@dev</text>
-    <text x="100" y="0" class="mono term-prompt">~ $</text>
-    <text x="130" y="0" class="mono term-cmd">g++ -std=c++20 -O3 main.cpp &amp;&amp; ./solution</text>
-    <!-- Cricket ball accent mark in terminal -->
-    <circle cx="496" cy="-4" r="3" fill="#b91c1c" />
-    <rect x="506" y="-12" width="7" height="15" rx="1" class="term-cursor" />
-  </g>
+<g clip-path="url(#tc)">
+  <text x="64" y="220" font-size="14" textLength="294.0" lengthAdjust="spacing" style="white-space:pre" font-family="'SF Mono','JetBrains Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace"><tspan fill="#cfe6ec" fill-opacity=".6">shantanu@dev ~ </tspan><tspan fill="#e6f4f7">$ </tspan><tspan fill="#ffffff" font-weight="600">build --with=focus</tspan></text>
+</g>
+<g class="tcur"><g transform="translate(64,0)"><rect class="tblink" x="0" y="204" width="2" height="19" rx="1" fill="#fff"/></g></g>
 </svg>
