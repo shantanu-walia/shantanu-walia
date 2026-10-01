@@ -11,17 +11,18 @@
 
 ## <img src="./assets/icons/about.svg" width="22" height="22" valign="middle" /> &nbsp;About Me
 
-```javascript
+```js
 const shantanu = {
-  role: "Software Developer | Full-Stack Developer",
-  focus: ["Backend Engineering", "Full-Stack Development", "Scalable Systems"],
-  dsa: "Data Structures & Algorithms",
-  passions: ["Clean Code Architecture", "Open Source", "System Design"],
-  philosophy: "Disciplined problem solving, clean system design, and building resilient code."
+  role: "Software Developer",
+  focus: ["Backend", "Full-Stack", "DSA", "Open Source"],
+  stack: ["C++", "JavaScript", "TypeScript", "React", "Node.js", "Express.js", "Prisma"],
+  databases: ["MongoDB", "PostgreSQL"],
+  tools: ["Git", "GitHub", "Docker"],
+  philosophy: "Build. Learn. Solve. Improve."
 };
 ```
 
-I am a full-stack and backend-focused developer dedicated to building reliable software systems and solving complex computational challenges. My work centers on architecting clean web applications, designing efficient database schemas, and practicing algorithmic problem solving. I enjoy exploring modern developer tooling, performance optimizations, and scalable distributed systems.
+I’m a software developer focused on backend and full-stack development. I enjoy building real-world projects, working with APIs and databases, and solving problems through Data Structures & Algorithms. I’m constantly learning by building, debugging, and understanding how things work under the hood. I’m also exploring open source, system design, and modern developer tools as I grow into a better engineer.
 
 ---
 
