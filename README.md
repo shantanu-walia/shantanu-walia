@@ -35,78 +35,29 @@ I’m a software developer focused on backend and full-stack development. I enjo
 
 <br/>
 
-<div align="center">
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="48" height="48" />
-  </a>
-  &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48" />
-  </a>
-  &nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="48" height="48" />
-  </a>
-  &nbsp;
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48" />
-  </a>
-  &nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="48" height="48" />
-  </a>
-  &nbsp;
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" />
-  </a>
-  &nbsp;
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="48" height="48" />
-  </a>
-  &nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
-  </a>
-  &nbsp;
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" />
-  </a>
-  &nbsp;
-  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="48" height="48" />
-  </a>
-  &nbsp;
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48" />
-  </a>
-  &nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" />
-  </a>
-</div>
+<p align="center">
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="48" height="48" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="48" height="48" /></a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="48" height="48" /></a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" /></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="48" height="48" /></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" /></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" /></a>
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="48" height="48" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" /></a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" /></a>
+</p>
 
 ---
 
 ## <img src="./assets/icons/connect.svg" width="22" height="22" valign="middle" /> &nbsp;Connect With Me
 
-<div align="center">
-  <a href="https://github.com/shantanu-walia" target="_blank" rel="noopener">
-    <img src="./assets/icons/github.svg" alt="GitHub" width="48" height="48" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://in.linkedin.com/in/shantanu-walia-45414a36a" target="_blank" rel="noopener">
-    <img src="./assets/icons/linkedin.svg" alt="LinkedIn" width="48" height="48" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Shanu313/" target="_blank" rel="noopener">
-    <img src="./assets/icons/leetcode.svg" alt="LeetCode" width="48" height="48" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:waliashantanu3@gmail.com">
-    <img src="./assets/icons/email.svg" alt="Email" width="48" height="48" />
-  </a>
-</div>
+<p align="center">
+  <a href="https://github.com/shantanu-walia" target="_blank" rel="noopener"><img src="./assets/icons/github.svg" alt="GitHub" width="48" height="48" /></a>
+  <a href="https://in.linkedin.com/in/shantanu-walia-45414a36a" target="_blank" rel="noopener"><img src="./assets/icons/linkedin.svg" alt="LinkedIn" width="48" height="48" /></a>
+  <a href="https://leetcode.com/u/Shanu313/" target="_blank" rel="noopener"><img src="./assets/icons/leetcode.svg" alt="LeetCode" width="48" height="48" /></a>
+  <a href="mailto:waliashantanu3@gmail.com"><img src="./assets/icons/email.svg" alt="Email" width="48" height="48" /></a>
+</p>
